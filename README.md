@@ -1,10 +1,10 @@
-﻿# param-mine
+# param-mine
 
 > Red team security tool for authorized testing only.
 
 ## Usage
 
-`ash
+```bash
 python param_mine.py --help
 ```
 
