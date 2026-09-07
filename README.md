@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="param-mine" width="800">
+</div>
+
 # param-mine
 
 > Red team security tool for authorized testing only.
